@@ -1,0 +1,16 @@
+# Frontend dependencies and build output
+bookinghub-frontend/node_modules/
+bookinghub-frontend/dist/
+bookinghub-frontend/.vite/
+
+# Backend build output
+bookinghub/target/
+bookinghub/.mvn/wrapper/maven-wrapper.jar
+
+# IDE and local files
+.idea/
+*.iml
+.vscode/
+*.log
+
+# Keep the Excel test database (data.xlsx) tracked intentionally.
